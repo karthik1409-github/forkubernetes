@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.v1
+{
+    background-color: lightblue;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 15px;
+}
+.v2
+{
+    background-color:blue;
+    border-style: groove;
+    border-color: orange;
+    border-width: 15px;
+}
